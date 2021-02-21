@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Xchanger",
-  "version": "2.3.1",
+  "version": "1.4.1",
   "default_locale": "en",
 
   "applications": {
@@ -13,7 +13,7 @@
   },
 
   "author": "Marc Ruiz Altisent",
-  "homepage_url": "https://github.com/Woundorf/foxreplace",
+  "homepage_url": "https://github.com/MnariMohamed/xChanger",
 
   "description": "__MSG_extensionDescription__",
 
